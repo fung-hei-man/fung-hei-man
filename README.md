@@ -27,13 +27,11 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2022
+> 🏆 66 Contributions in the Year 2022
  > 
 > 📦 99.6 kB Used in GitHub's Storage 
  > 
@@ -92,7 +90,7 @@ Mac                      41 mins             ██████████░�
 ```
 
 
- Last Updated on 17/02/2022 16:43:22 UTC
+ Last Updated on 18/02/2022 16:31:57 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
