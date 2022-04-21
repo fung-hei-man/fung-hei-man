@@ -70,21 +70,18 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 20 mins       ███████████████░░░░░░░░░░   62.13% 
-SCSS                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.98% 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 3 hrs 45 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 18/04/2022 20:44:35 UTC
+ Last Updated on 21/04/2022 20:48:05 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
