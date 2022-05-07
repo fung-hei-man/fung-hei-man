@@ -27,6 +27,8 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-337%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +86,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/05/2022 20:45:34 UTC
+ Last Updated on 07/05/2022 20:44:48 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
