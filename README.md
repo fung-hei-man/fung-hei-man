@@ -70,15 +70,13 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   41 mins             █████████████████████░░░░   85.98% 
-GitIgnore file           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,7 +85,7 @@ Mac                      48 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/fung-hei-man/fung-hei-man/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/05/2022 20:45:37 UTC
+ Last Updated on 22/05/2022 20:45:40 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
