@@ -70,13 +70,13 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
@@ -85,7 +85,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/fung-hei-man/fung-hei-man/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 20:47:05 UTC
+ Last Updated on 31/05/2022 20:48:41 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
