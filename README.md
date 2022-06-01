@@ -33,7 +33,7 @@
 
 > 🏆 306 Contributions in the Year 2022
  > 
-> 📦 975.7 kB Used in GitHub's Storage 
+> 📦 975.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -85,7 +85,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/fung-hei-man/fung-hei-man/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/05/2022 20:48:41 UTC
+ Last Updated on 01/06/2022 20:49:06 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
