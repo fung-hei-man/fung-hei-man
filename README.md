@@ -33,7 +33,7 @@
 
 > 🏆 306 Contributions in the Year 2022
  > 
-> 📦 975.6 kB Used in GitHub's Storage 
+> 📦 976.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -70,13 +70,17 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               7 mins              █████████████████████░░░░   86.01% 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +89,7 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/fung-hei-man/fung-hei-man/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 20:49:06 UTC
+ Last Updated on 02/06/2022 20:44:56 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
