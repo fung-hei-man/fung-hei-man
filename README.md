@@ -87,7 +87,7 @@ Mac                      21 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/fung-hei-man/fung-hei-man/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/06/2022 20:45:41 UTC
+ Last Updated on 01/07/2022 20:45:54 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
