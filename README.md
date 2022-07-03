@@ -70,15 +70,13 @@ Sunday       27 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   15 mins             ██████████████████░░░░░░░   72.06% 
-JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-SCSS                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,7 +85,7 @@ Mac                      21 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/fung-hei-man/fung-hei-man/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2022 20:43:58 UTC
+ Last Updated on 03/07/2022 20:43:37 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
