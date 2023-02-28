@@ -29,7 +29,7 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-398.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-405.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,7 +84,7 @@ Mac                      1 hr 26 mins        ███████████�
 ```
 
 
- Last Updated on 27/02/2023 20:39:57 UTC
+ Last Updated on 28/02/2023 20:39:45 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
