@@ -71,20 +71,17 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   21 mins             ████████████░░░░░░░░░░░░░   47.42 % 
-JavaScript               18 mins             ██████████░░░░░░░░░░░░░░░   39.58 % 
-Java                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 40 mins             ██████████████████████░░░   87.00 % 
-IntelliJ                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2023 20:39:13 UTC
+ Last Updated on 19/09/2023 20:39:25 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
