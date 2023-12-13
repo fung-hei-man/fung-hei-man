@@ -71,19 +71,17 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JSON                     15 mins             ████████████████░░░░░░░░░   62.72 % 
-Docker                   9 mins              █████████░░░░░░░░░░░░░░░░   37.22 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/12/2023 20:39:04 UTC
+ Last Updated on 13/12/2023 20:39:31 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
