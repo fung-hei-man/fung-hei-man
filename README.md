@@ -71,17 +71,17 @@ Sunday                   654 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/01/2024 20:39:36 UTC
+ Last Updated on 24/01/2024 20:39:00 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
