@@ -30,17 +30,19 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2018%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 1 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -81,7 +83,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/01/2025 20:41:55 UTC
+ Last Updated on 13/01/2025 20:41:28 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
