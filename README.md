@@ -74,17 +74,17 @@ Sunday                   349 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JSON                     41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/12/2025 20:47:12 UTC
+ Last Updated on 28/12/2025 20:47:03 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
