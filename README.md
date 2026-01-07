@@ -31,13 +31,15 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2034%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +84,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/01/2026 20:47:05 UTC
+ Last Updated on 07/01/2026 20:52:15 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
