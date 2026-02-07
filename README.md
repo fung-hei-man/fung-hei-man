@@ -31,6 +31,8 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2034%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -41,9 +43,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -82,7 +84,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/02/2026 21:03:36 UTC
+ Last Updated on 07/02/2026 20:55:43 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
