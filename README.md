@@ -31,6 +31,8 @@
 
 ### :mag: GitHub Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2049%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.57%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -88,7 +90,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/08/2026 02:55:48 UTC
+ Last Updated on 01/09/2026 00:04:45 UTC
 <!--END_SECTION:waka-->
 
 ### :desktop_computer: Workspace
